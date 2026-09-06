@@ -1,7 +1,7 @@
 ## 0061 – The DSI Senate Investigation 2024–2026: Forensic AI, the 153 Blue Senators, and Administrative Closure under Bhumjaithai
 **How a money‑laundering probe with 1,200 suspects, forensic AI on 12,000 transactions and 20,000 phone records, and concrete findings against 138 sitting senators was processed into administrative quiet between September 2025 and May 2026**
 
-*Last updated: 5 September 2026 (ICT)*
+*Last updated: 6 September 2026 (ICT)*
 
 ---
 
@@ -415,7 +415,7 @@ Signed by Deputy Secretary-General **Kanchit Charoen-in** acting for Secretary-G
 
 The charge under **section 76** against **18 respondents named in the file**, among them **Anutin Charnvirakul** and **Newin Chidchob**: **dismissed.**
 
-The reasoning is the substance. The principal witness was a former Bhumjaithai MP, expelled from the party by resolution of its executive and its MPs, who gave evidence as a participant and asked to be kept as a witness. He described a party meeting at which a plan to procure Senate candidates was presented from an offline flash drive plugged into a computer and shown on screen, with a list of key provinces to be covered.
+The reasoning is the substance. The principal witness was a former Bhumjaithai MP, expelled from the party by resolution of its executive and its MPs, who gave evidence **as a person who had taken part in the offence** and asked to be kept as a witness — an exemption the opinion grants: those kept as witnesses are not to be proceeded against. He described a party meeting at which a plan to procure Senate candidates was presented from an offline flash drive plugged into a computer and shown on screen, with a list of key provinces to be covered.
 
 Against this the Secretary-General held: the witness **stood in conflict with the party executive**; he had the account **from a fellow MP**, making him a **hearsay and not an eyewitness**, to be weighed with particular care; he **did not name** that colleague; there were **no minutes and no photographs** to support it; he gave **no date** for the meeting; and he could have **worked the picture out for himself from the published result**. No other evidence of sufficient weight ⇒ dismissed.
 
@@ -425,7 +425,14 @@ Also dismissed: several complaints **supported by payment records** — because 
 
 **What it carried forward at the political level**
 
-Two persons, **with a criminal complaint attached**: **Napintorn Srisunpang**, Deputy Minister of Commerce, and a reserve senator from Trang. On the account reported, on **25 June 2024** a group of people entitled to vote were summoned to his ministry office to be "looked over"; those whose numbers appeared in the lists were required to sign undated letters of resignation in advance; the group was then taken to a hotel in Pathum Thani where the lists were compiled. Telephone location data placed the reserve senator at that hotel for about three hours.
+Not everyone at the political level was let go. On iLaw's account the opinion proposed petitioning the Supreme Court, **with criminal complaints attached**, against:
+
+- **Napintorn Srisunpang**, Deputy Minister of Commerce, and a reserve senator from Trang (below);
+- **Pichai Chompupol**, Bhumjaithai MP for Surat Thani, under **section 76 ¶1** — the paragraph addressed to the assisting politician;
+- **Gen Kriangkrai Srirak** under **section 76 ¶2** — the paragraph addressed to the candidate who accepts the assistance. **He is the First Deputy President of the Senate** (§15), elected on 23 July 2024 with 150 votes;
+- and three further individuals named in the file.
+
+The first of these, on the account reported: On the account reported, on **25 June 2024** a group of people entitled to vote were summoned to his ministry office to be "looked over"; those whose numbers appeared in the lists were required to sign undated letters of resignation in advance; the group was then taken to a hotel in Pathum Thani where the lists were compiled. Telephone location data placed the reserve senator at that hotel for about three hours.
 
 The respondent's answer was that the meeting at the ministry took place but concerned a surplus of turkeys on the market, not the Senate selection. The Secretary-General held against it that **the letter requesting budget support for the turkey matter was never entered in the ministry's document registry**, which is irregular for a government office; that the respondent's witnesses submitted **written statements in identical wording and form** instead of appearing to testify, suggesting arrangement beforehand; and that telephone data placed **two senators returned from Ratchaburi at the Ministry of Commerce at the same time** the witness described.
 
@@ -480,7 +487,9 @@ Where the first layer removed the evidence, the second removed the reach of the 
 
 **⇒ The structure of the outcome.** The two layers are independent and they are cumulative. The first says: on these facts, the evidence does not reach the political level. The second says: on this construction, the provision would not reach it even if the evidence did. Nobody in the chain is recorded as declining to examine anything.
 
-⚠️ **This is a description of what the two reported documents contain, not an allegation about why.** Each individual step is defensible; several would be applied the same way in an ordinary criminal matter, and the Observatory applies the hearsay caution itself at §14 and §15. The finding is not that any step is wrong. It is that the steps compose — and that the composition, arrived at through two bodies and eight months, produces a result in which the 229 include 138 senators and no one above them.
+⚠️ **This is a description of what the two reported documents contain, not an allegation about why.** Each individual step is defensible; several would be applied the same way in an ordinary criminal matter, and the Observatory applies the hearsay caution itself at §14 and §15. The finding is not that any step is wrong. It is that the steps compose — and that the composition, arrived at through two bodies and eight months, leaves the **party leadership as a body** untouched.
+
+⚠️ **This is not the same as saying nobody above the 136 was pursued, and the distinction matters.** At the Secretary-General's stage individual political-level actors *were* carried forward with criminal complaints attached — a deputy minister, the First Deputy President of the Senate, and others (§16.1). What was dismissed as a group was the charge under section 76 against the eighteen named party executives and MPs. The 36th panel then set both apart alike. The finding is about the **collective** exposure of a party executive, not about a blanket absence of names.
 
 ### 16.4 Who decides on 14 September
 
@@ -495,6 +504,34 @@ The conflict was identified inside the institution before it arose. In an interv
 **§15 — the second deputy president (closed in part).** Boonsong Noisophon is a former member of the Election Commission who went on to chair the Commission's **legal advisory committee**, resigning that position upon his selection as a senator; the Commission then dissolved the advisory committee as a whole. Former senator **Somchai Sawaengkarn** publicly raised the conflict of interest at the time. ⚠️ The years of his membership are still not established here, and nothing in this paragraph asserts that he administered the 2024 selection.
 
 **Open: whether any time limit binds the Commission.** Two secondary accounts conflict. iLaw, reporting chairman Itthiporn's own statement of 18 July 2025, sets out a three-stage frame of 60 + 90 + 90 = **240 days** from the handover to the Secretary-General, citing clauses 59 ¶4, 79 and 82 of the investigation regulation as amended in 2566. The public-law jurist **Nattawut Wongniom** holds that the former clause 82 set no limit at all, and that the limit introduced by the third amendment is in **clause 92** — one year from the announcement of the result, which fell on 10 July 2024. Chairman Itthiporn has stated publicly that the period may be extended beyond a year; Nattawut disputes this and argues that a decision taken out of time would give the respondents a limitation defence. **The regulation itself has not been retrieved:** `ect.go.th`, `ratchakitcha.soc.go.th` and the parliamentary repository were all unreachable from this workstation. Until the text is pinned, neither account should be relied on.
+
+---
+
+### 16.6 The charge that did not survive the journey
+
+§4 records how the file began: on **6 March 2025** the DSI announced an investigation into unlawful gatherings **and related money laundering**, and by 14 May it had put forensic analysis across 12,000 transactions and 20,000 phone records behind a trail of some 300 million baht in 45 provinces. §5 records the first narrowing: in **May 2025** the DSI's own Special Cases Board voted 11–4 on which provisions would be applied, without rejecting the forensic findings.
+
+What has not been set down here is where that framing ended up. **The seven charges the Election Commission finally put to its members are all offences under the Senate Organic Act** — s. 76 ¶1 and ¶2 (political actors assisting a candidate; a candidate consenting to it), ss. 36 with 70 (self-introduction otherwise than as prescribed), s. 77(1) (property or benefit offered to induce voting), s. 77(3) (entertaining to induce), s. 79 (accepting a benefit in order to stand), s. 81 (an elector accepting a benefit). **No money-laundering offence is among them.**
+
+This is not an absence of any money element: **s. 77(1) is itself designated by statute a predicate offence** under the anti-money-laundering law, and clause 87 of the EC's investigation regulation provides expressly that where the Commission finds such an offence it **may refer the matter to the Anti-Money Laundering Office**. The route is open and written down.
+
+⇒ The observation is therefore narrow and checkable: **the case entered as a money-laundering investigation and reached the deciding body as a set of election-law charges**, with a statutory bridge back to the money track available and no public record of its being crossed. Nothing here establishes why. ⚠️ The predicate-offence status of s. 77(1) is taken from the text of the Senate Act held locally (`senatsgesetz_2561_normen.md`); clause 87 from iLaw's clause-by-clause account of the regulation, the regulation itself still not retrieved (§16.5).
+
+### 16.7 The party leader's account, 5 September 2026
+
+Asked in Ratchaburi whether anything linked the Senate case to Bhumjaithai, **Anutin Charnvirakul** said he was unaware of any such matter and that the government had no involvement. He supported it with dates: his second government took office on 1 April 2026 and his first on 1 October 2025, so that "both of his governments came to office about a year and three months after the Senate election". He added: "I can confirm that I know nothing about it." He also rejected the opposition's claim that his party was delaying parliamentary debate on the Election Commission's report ([Bangkok Post 3314574](https://www.bangkokpost.com/thailand/politics/3314574/anutin-shrugs-off-debate-threats), 6 September 2026).
+
+The dates are broadly right — the first cabinet was gazetted 19 September 2025 and began work at the end of that month, the second was gazetted 31 March 2026 — and nothing here suggests otherwise. What the answer does is change the office in question. **Three capacities are in play and only one of them is addressed:**
+
+| Capacity | Period | Bearing on the file |
+|---|---|---|
+| **Leader of Bhumjaithai** | throughout, including June 2024 | The dismissed charge is under **s. 76**, which addresses party executives, MPs and holders of political office — not governments |
+| **Minister of the Interior** | 2023 until **19 June 2025** | Covers the whole of the June 2024 selection. Interior officials chair the district and provincial rounds by regulation (§12) |
+| **Prime Minister** | from September/October 2025 | Not in issue — and the only one the answer concerns |
+
+The tenure of the Interior portfolio can now be fixed at one end from the record: the Royal Gazette of **20 June 2025** carried the Prime Minister's Office announcement that eight Bhumjaithai ministers had resigned, the first named being "Anutin Charnvirakul, Deputy Prime Minister and Minister of the Interior", his ministerial office ending **19 June 2025** under s. 170(2) of the Constitution. The note appended to §12 on 22 July 2026, which rested the tenure on secondary biographical sources, is to that extent superseded; **the 2023 starting point remains secondary.**
+
+⚠️ **Two things this does not say.** It does not say he was involved: the Secretary-General's opinion **dismissed** the s. 76 charge against him, at length (§16.1), and on the file as it stands that is the institution's own position. And holding the Interior portfolio is not responsibility for a selection the Election Commission conducts. The finding is only that the exculpation offered concerns an office that was never the subject of the charge.
 
 ---
 
@@ -585,6 +622,18 @@ The conflict was identified inside the institution before it arose. In an interv
 - Thairath — first deputy president elected with 150: https://www.thairath.co.th/news/politic/2802712
 
 **Note on §16.** The Secretary-General's opinion and the minutes of the 36th panel are both internal documents; neither has been read in the original. The opinion is cited through iLaw's account of it, the minutes through the extracts and characterisations published by a former Election Commissioner. The four criteria of 18 November 2025 are reported at second hand and their own wording has not been seen. The EC investigation regulation of 2561 as amended has **not** been retrieved — three official sources were unreachable — and the conflicting accounts of the time limit are therefore both left standing and neither used. The years of Boonsong Noisophon's membership of the Commission remain unestablished.
+
+
+### Added 6 September 2026 (§16.6 the money-laundering framing, §16.7 the party leader's account)
+
+- Bangkok Post — *Anutin shrugs off debate threats* (Post Reporters, 6 Sep 2026; the dates of both cabinets, "I can confirm that I know nothing about it", the denial of delaying debate on the EC report): https://www.bangkokpost.com/thailand/politics/3314574/anutin-shrugs-off-debate-threats
+- Prachatai — Royal Gazette announcement of 20 June 2025, eight Bhumjaithai ministers resigning; Anutin named first as Deputy Prime Minister and Minister of the Interior, office ending 19 June 2025 under s. 170(2): https://prachatai.com/journal/2025/06/113383
+- Thai PBS — the seven charges put to the Commission, all under the Senate Organic Act: https://www.thaipbs.or.th/news/content/509826
+- iLaw — clause 87 of the investigation regulation, referral to the Anti-Money Laundering Office: https://www.ilaw.or.th/articles/53491
+- Next News — NACC asset declaration identifying **Pichai Chompupol** as MP for Surat Thani constituency 6, Bhumjaithai, on leaving office 12 December 2025: https://nextnewsth.com/th/investigative/asset-declaration/6a741db9ec3bd467cd74537e
+
+**Note on §16.6 and §16.7.** The predicate-offence status of s. 77(1) is taken from the local text of the Senate Organic Act, not from a Gazette copy; clause 87 is cited through iLaw, the regulation itself still unretrieved. The 2023 start of the Interior portfolio remains on secondary sources; only the end date is now fixed from the Gazette announcement. Nothing in §16.7 asserts involvement: the s. 76 charge against Mr Anutin was dismissed by the Commission's own Secretary-General (§16.1).
+
 
 ---
 
