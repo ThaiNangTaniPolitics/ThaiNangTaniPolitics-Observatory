@@ -456,6 +456,18 @@ On the same account, the sittings ran Tuesdays and Thursdays, 13:30 to 16:00. A 
 
 At sitting 3/2568 on **18 November 2025**, the framework of assessment for section 76 ¶2 was set out in four points. Two are reported in terms: that **not knowing is to be treated as not consenting**, and that a person who **did not intend to become a senator** is not covered. Read together with a construction under which only a *candidate* can offend, the effect described is that payments to applicants who registered in order to vote for others fall outside the provision — and, paragraph 2 having failed, paragraph 1 (the politician assisting the candidate) fails with it.
 
+**One member on both sides of the file: Pol Capt Piya Raksakul.** He is a **former Deputy Director-General of the DSI** — the agency that produced, jointly with the 26th committee, the material the panel was reading. He was named to the panel by EC order **2633/2568**, and on **26 November 2025**, while it was sitting, he became **Director-General of the Department of Probation**.
+
+Until Mr Somchai published the minutes on 1 September 2026, press reporting and the petitioners named **Piya** as the panel's chairman; the minutes name **Chaowana Traimas** and place Piya among the four who barely appear in them. ⚠️ **The chairmanship is therefore contested on the record**, and the question is not decorative: it determines whose neutrality was legally in issue.
+
+On **4 March 2026**, eight days before the vote, the group of reserve senators led by **Akkarawat Pongthanachalitkul** petitioned the Election Commission to remove him. Their ground was clause 74 of the investigation regulation, which requires members of these panels to be **politically neutral and of proven integrity**. Their evidence was a photograph of Piya waiting on an aircraft apron — an area the public cannot enter — to receive Prime Minister Anutin Charnvirakul with a *wai*, on the occasion of the MotoGP event at Buriram on 1 March, to which the Prime Minister travelled by air force aircraft. They asked that he be removed at once and barred from touching the evidence in central file 87 สว.10/2568. **The petition did not succeed. On 12 March the panel voted 5–2 to clear all 229** (Siamrath, 4 March 2026).
+
+In **September 2026** a list of senior Justice Ministry transfers appeared in the press proposing that Piya be moved into the **Director-Generalship of the DSI**, exchanging posts with **Pol Maj Yutthana Praedam**, who had signed the order opening the money-laundering investigation. The **Permanent Secretary for Justice denied any such intention** (Dailynews, 3–4 September 2026).
+
+⇒ Stated as structure and nothing more: **a former deputy head of the DSI sat on the panel that recommended emptying the file on which the DSI's own criminal case depends (§16.6), and has since been named in reporting as a candidate to lead that agency.** Nothing here establishes a purpose; the transfer was reported and denied, the partiality claim belongs to the petitioners, and a photograph records a greeting.
+
+⚠️ **A date to pin.** Thai PBS gives 25 September 2025 as the panel's appointment date; the petition cites EC order 2633/2568 of **16 September 2025**. Two sources, two dates, unreconciled here.
+
 ⚠️ These are the characterisations of a former commissioner publishing a document obtained from inside the institution. The four criteria have not been read in their own wording; the two given here are reported at second hand. Bhumjaithai has pursued the disclosure rather than the file: the House Police Committee summoned Parit Wacharasindhu over publication of case material.
 
 ### 16.3 How the political level came out — two layers, neither of them a refusal to look
@@ -507,7 +519,7 @@ The conflict was identified inside the institution before it arose. In an interv
 
 ---
 
-### 16.6 The charge that did not survive the journey
+### 16.6 Two tracks, split on 6 March 2025 — and a correction
 
 §4 records how the file began: on **6 March 2025** the DSI announced an investigation into unlawful gatherings **and related money laundering**, and by 14 May it had put forensic analysis across 12,000 transactions and 20,000 phone records behind a trail of some 300 million baht in 45 provinces. §5 records the first narrowing: in **May 2025** the DSI's own Special Cases Board voted 11–4 on which provisions would be applied, without rejecting the forensic findings.
 
@@ -515,7 +527,31 @@ What has not been set down here is where that framing ended up. **The seven char
 
 This is not an absence of any money element: **s. 77(1) is itself designated by statute a predicate offence** under the anti-money-laundering law, and clause 87 of the EC's investigation regulation provides expressly that where the Commission finds such an offence it **may refer the matter to the Anti-Money Laundering Office**. The route is open and written down.
 
-⇒ The observation is therefore narrow and checkable: **the case entered as a money-laundering investigation and reached the deciding body as a set of election-law charges**, with a statutory bridge back to the money track available and no public record of its being crossed. Nothing here establishes why. ⚠️ The predicate-offence status of s. 77(1) is taken from the text of the Senate Act held locally (`senatsgesetz_2561_normen.md`); clause 87 from iLaw's clause-by-clause account of the regulation, the regulation itself still not retrieved (§16.5).
+**How the case was taken up, and by whom.** On **6 March 2025** the Special Cases Board (คณะกรรมการคดีพิเศษ), chaired by **Phumtham Wechayachai**, Deputy Prime Minister and Minister of Defence, accepted investigation file **151/2567** — the Senate case — as a special case by **11 votes**, on the ground of **conspiracy in the offence of money laundering** by persons or a group of persons acting under **s. 209 of the Criminal Code** (*angyi*, secret society) and related laws.
+
+Four days later, on **10 March 2025**, the Director-General of the DSI, **Pol Maj Yutthana Praedam**, signed **DSI Order 320/2568** appointing **41 special investigators**, with himself as head of the panel. Alongside him sat four Deputy Directors-General and the directors of the divisions for tax, technology, national security, natural resources, intellectual property, human trafficking and cyber investigation — and, among them, the **Director of the DSI's Financial, Banking and Money Laundering Crime Division** (กองคดีการเงินการธนาคารการฟอกเงิน), **พันตำรวจโท จักรกฤษณ์ วิเศษเขตการณ์** (Isranews, 10 March 2025). ⚠️ The Thai spelling is from the source; no romanisation of this name has been taken from a source and none is offered here.
+
+That is not a routine allocation. It is the senior tier of the agency, assigned to one file, at the point when the forensic record described in §4 was at its maximum.
+
+**The division of labour was stated at the same time: the DSI would investigate the money laundering, the Election Commission the selection itself.**
+
+⇒ **Where the money-laundering evidence went — as far as the public record goes.** §4 records what it consisted of: forensic analysis across 12,000 transactions and 20,000 phone records, a trail of some 300 million baht in 45 provinces, 1,200 suspects. It did not enter the Commission's file, because the 6 March split did not send it there.
+
+On its own track it is **DSI special case 24/2568** (*angyi* and money laundering), and by **10 June 2026** its position was this: the DSI had brought a **first batch of eight** to indictment — **two sitting senators** and six members of the network of a well-known party — and the **special-cases prosecutor had returned the file**, directing further investigation and ordering the DSI to **incorporate the Election Commission's own material** on seven groups of persons into the criminal money-laundering file. The DSI, answering the public charge that it had put the case in neutral, stated that it saw no dead end and was proceeding on the prosecutor's instructions; reserve senators were pressing publicly for it to move in parallel with the Commission rather than wait (Khaosod, 10 June 2026).
+
+⇒ **So the two tracks were ordered back together in June 2026** — the prosecutor requiring the Commission's material to be folded into the criminal case — **and nine months earlier the Commission's own secretariat had already narrowed its side of it, with the 36th panel emptying it entirely in March 2026.** What the DSI was told to import had by then been cleared by the body that produced it.
+
+⚠️ **Two cautions.** Nothing here shows a connection between the two events; they are dated, they are not linked. And the June 2026 report is the most recent state established here — whether the DSI file has moved since, or reached a court, has **not** been checked and should not be assumed. Any use of the phrase "the money-laundering charge disappeared" is wrong on this record: it was split off on 6 March 2025, it produced eight indictments, and it was sent back for completion.
+
+⚠️ **Correction, entered the same day this section was written.** An earlier draft of §16.6 presented the absence of a money-laundering charge from the Commission's list as something that happened to the case on its way — a framing that does not survive the record of **6 March 2025** itself.
+
+At a press conference at the Ministry of Justice that day, **Phumtham Wechayachai**, Deputy Prime Minister and Minister of Defence, chairing the Special Cases Board, stated that the board **had not considered the Senate selection process at all**. It accepted the money-laundering complaint alone, under **s. 21(1)** of the Special Case Investigation Act B.E. 2547 (simple majority): **11 in favour, 4 against, 3 abstentions of 18 present**; the two-thirds threshold of s. 21(2) was not reached. He added that offences under **s. 77 ¶1 of the Senate Organic Act fall within the Election Commission's jurisdiction** and were referred to it. Justice Minister **Pol Col Tawee Sodsong** put it plainly: the DSI would handle the money-laundering offence only, and might later extend to other offences such as *angyi*.
+
+⇒ **The two tracks were separated at the outset, in public.** Money laundering to the DSI; election offences to the Commission. That the Commission's seven charges are all Senate-act offences is therefore **not a narrowing that occurred later** — it is the division the board announced on day one. Any account that presents it as a disappearance is answerable in one sentence, and should not be used.
+
+⇒ **What remains a question is the other track.** The money-laundering case never went to the Commission; it stayed with the DSI, whose administrative trajectory from September 2025 is the subject of §5 and §6. The open item is therefore not "where did the charge go" but **what became of the DSI's own case** — and clause 87 of the EC regulation remains a separate, unused bridge back.
+
+⚠️ The predicate-offence status of s. 77(1) is taken from the text of the Senate Act held locally (`senatsgesetz_2561_normen.md`); clause 87 from iLaw's clause-by-clause account of the regulation, the regulation itself still not retrieved (§16.5).
 
 ### 16.7 The party leader's account, 5 September 2026
 
@@ -603,6 +639,8 @@ The tenure of the Interior portfolio can now be fixed at one end from the record
 - iLaw — evidence required for occupational membership (forms สว.3 / สว.4, guarantor and witness, clause 50 and sub‑clause 11 ¶2 of the 2567 selection regulation): https://www.ilaw.or.th/articles/27999
 - Thai PBS — election of the Senate presidency, 23 July 2024: https://www.thaipbs.or.th/news/content/342291 · profile of the second deputy president: https://www.thaipbs.or.th/news/content/342317
 - The Standard — first deputy president described as a friend of Mr Anutin: https://thestandard.co/kriangkrai-anutin-friend-vice-president-senate/
+- Siamrath — reserve senators' petition of 4 March 2026 to remove Pol Capt Piya Raksakul from the 36th panel, citing clause 74 and the Buriram photograph; EC order 2633/2568 of 16 September 2025: https://siamrath.co.th/politics/national-politics/132708
+- Dailynews — the reported swap of the DSI and Probation directorships and the Permanent Secretary's denial; the disciplinary proceeding against the director of the environmental crime division: https://www.dailynews.co.th/news/6160258/
 
 **Note on §15.** The four judgments are cited from Isranews' full‑text reproductions; the Supreme Court's own case pages (`supremecourt.or.th`) were unreachable from this workstation — DNS resolves, neither HTTPS nor HTTP connects. The text of the 2567 selection regulation is cited through iLaw's clause‑by‑clause summary, as in §12; the Royal Gazette version has not been pinned. Section 77 of the Organic Act, which appears in the charges against the 55 senators summoned in 2025, has not been read and may bear on the Commission's powers during an ongoing selection — an open item.
 
@@ -630,6 +668,10 @@ The tenure of the Interior portfolio can now be fixed at one end from the record
 - Prachatai — Royal Gazette announcement of 20 June 2025, eight Bhumjaithai ministers resigning; Anutin named first as Deputy Prime Minister and Minister of the Interior, office ending 19 June 2025 under s. 170(2): https://prachatai.com/journal/2025/06/113383
 - Thai PBS — the seven charges put to the Commission, all under the Senate Organic Act: https://www.thaipbs.or.th/news/content/509826
 - iLaw — clause 87 of the investigation regulation, referral to the Anti-Money Laundering Office: https://www.ilaw.or.th/articles/53491
+- MGR Online — press conference of 6 March 2025 at the Ministry of Justice: Phumtham Wechayachai chairing the Special Cases Board, the 11–4–3 vote under s. 21(1), the board's statement that it did not consider the selection process, and the referral of s. 77 ¶1 offences to the Election Commission: https://mgronline.com/crime/detail/9680000021794
+- Isranews — DSI Order 320/2568 of 10 March 2025 appointing 41 special investigators under the Director-General, on the money-laundering ground in connection with s. 209 of the Criminal Code: https://www.isranews.org/article/isranews/136348-politics-198.html
+- Posttoday — the board's reasoning and the prior discussion at meeting 2/2568 of 25 February 2025: https://www.posttoday.com/politics/720547
+- Khaosod — state of DSI special case 24/2568 on 10 June 2026: eight indicted including two sitting senators, the special-cases prosecutor returning the file and ordering the Commission's material folded in; also the two dissenting votes on the 36th panel, which held that 134 of the 138 sitting senators should be charged: https://www.khaosod.co.th/politics/news_10277913
 - Next News — NACC asset declaration identifying **Pichai Chompupol** as MP for Surat Thani constituency 6, Bhumjaithai, on leaving office 12 December 2025: https://nextnewsth.com/th/investigative/asset-declaration/6a741db9ec3bd467cd74537e
 
 **Note on §16.6 and §16.7.** The predicate-offence status of s. 77(1) is taken from the local text of the Senate Organic Act, not from a Gazette copy; clause 87 is cited through iLaw, the regulation itself still unretrieved. The 2023 start of the Interior portfolio remains on secondary sources; only the end date is now fixed from the Gazette announcement. Nothing in §16.7 asserts involvement: the s. 76 charge against Mr Anutin was dismissed by the Commission's own Secretary-General (§16.1).
